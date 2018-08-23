@@ -7,8 +7,3 @@ leaderboard - Server / global leaderboard
 payday - Get some free credits
 payouts - Shows slot machine payouts
 slot - Play the slot machine
-
-
-
-
-(Redbot modified)
